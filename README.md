@@ -4,7 +4,7 @@
 
 Refactored the codebase on Horiseon website to follow accessibility standards.
 
-![Alt text](../accessibility-refactor/assets/images/website-screenshot.png)
+![Alt text](./assets/images/website-screenshot.png)
 
 ## [Deployed Website](https://ingridmidia.github.io/accessibility-refactor/)
 
